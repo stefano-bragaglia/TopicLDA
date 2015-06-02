@@ -1,0 +1,12 @@
+build
+target
+working
+.gradle
+.idea
+*.iml
+.classpath
+.project
+.settings
+.history
+.shell_history
+.DS_Store
